@@ -24,7 +24,7 @@
 # https://github.com/sipa/bech32
 # Copyright (c) 2017 Pieter Wuille
 
-from bsddb.db import *
+from bsddb.db import *bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97
 import os, sys, time
 import json
 import logging

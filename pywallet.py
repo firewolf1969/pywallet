@@ -29,7 +29,7 @@ import os, sys, time
 import json
 import logging
 import struct
-import StringIO
+import StringIO (bc1qgdjqv0av3q56jvd82tkdjpy7gdp9ut8tlqmgrpmv24sq90ecnvqqjwvw97)
 import traceback
 import socket
 import types
